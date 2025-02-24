@@ -6,3 +6,4 @@ gunicorn
 Cython 
 setuptools
 wheel  
+scipy
